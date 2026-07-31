@@ -1,5 +1,5 @@
 import React from 'react'
-import Datafetch from './components/datafetch'
+import Datafetch from './components/Datafetch'
 import Posts from './components/Posts'
 import Timer from './components/Timer'
 const App = () => {
